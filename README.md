@@ -12,7 +12,7 @@ make
 ./merge
 ```
 <p align="center">
-![image](./assets/kitti.png)
+  <img src="./assets/kitti.png)" alt="image" width="400" />
 </p>
 
 
@@ -21,7 +21,7 @@ make
 python NCLT_CloudMerge.py
 ```
 <p align="center">
-  <img src="./assets/nclt.png" alt="image" width="300" />
+  <img src="./assets/nclt.png" alt="image" width="400" />
 </p>
 
 
@@ -30,7 +30,7 @@ python NCLT_CloudMerge.py
 python Vis_localization_KITTI.py
 ```
 <p align="center">
-![image](./assets/kitti_loc.png)
+  <img src="./assets/kitti_loc.png" alt="image" width="400" />
 </p>
 
 4.Visualization of localization process on NCLT dataset.
@@ -38,7 +38,7 @@ python Vis_localization_KITTI.py
 python Vis_localization_NCLT.py
 ```
 <p align="center">
-![image](./assets/nclt_loc.png)
+  <img src="./assets/nclt_loc.png" alt="image" width="400" />
 </p>
 
 
@@ -47,6 +47,6 @@ python Vis_localization_NCLT.py
 python point_cloud2bev_KITTI.py
 ```
 <p align="center">
-![image](./assets/bev_KITTI.png)
+  <img src="./assets/bev_KITTI.png" alt="image" width="400" />
 </p>
 
