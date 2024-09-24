@@ -11,10 +11,10 @@ cmake ..
 make
 ./merge
 ```
-<p align="center">
-  <img src="./assets/kitti.png)" alt="image" width="400" />
-</p>
 
+<p align="center">
+  <img src="./assets/kitti.png" alt="image" width="300" />
+</p>
 
 2.Merge LiDAR point clouds to a global map with known poses on NCLT dataset.
 ```bash
